@@ -1,0 +1,19 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "key.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "fs": "0.0.1-security",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
